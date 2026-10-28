@@ -12,7 +12,7 @@ Console-based application to manage hospital patients, appointments and doctors.
 - Bill calculation 
 
 ## Technologies
-- C++
+- OOP using C++
 - STL: vector, string, fstream, etc.
 
 Created by Muhammed Abdelhamid  
