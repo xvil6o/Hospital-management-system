@@ -11,15 +11,9 @@ Console-based application to manage hospital patients, appointments and doctors.
 - Input validation
 - Bill calculation 
 
-## How to Run
-1. Compile: g++ main.cpp -o Hospital Management System
-2. Run: ./Hospital Management System (Linux/Mac) or Hospital Management System.exe (Windows)
-
 ## Technologies
 - C++
-- STL: vector, string, fstream
-
-Screenshots:
+- STL: vector, string, fstream, etc.
 
 Created by Muhammed Abdelhamid  
-Cairo University - Computers and Artificial Intelligence
+Cairo University - faculty of Computers and Artificial Intelligence
