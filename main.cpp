@@ -5,7 +5,7 @@
 #include "header.h"
 using namespace std;
 
-bool   again(const string& prompt) // helper function
+bool again(const string& prompt) // helper function
 {
     string ans;
     cout << prompt;
@@ -56,7 +56,7 @@ void calculateTotalBill()
 int main() 
 {
     cout << "--- Hospital Management System ---\n";
-    cout << "0-Exit\n1-Add New Doctor\n2-Add New Patient\n3-Book Appointment\n 4-Cancel Appointment\n5-Display all appointments\n6-Search for a doctor by credentials\n7-Search for a patient by credentials\n8-Total bill\n9-Search for a doctor by specialization\n10-Patient medical report\n";
+    cout << "0-Exit\n1-Add New Doctor\n2-Add New Patient\n3-Book Appointment\n4-Cancel Appointment\n5-Display all appointments\n6-Search for a doctor by credentials\n7-Search for a patient by credentials\n8-Total bill\n9-Search for a doctor by specialization\n10-Patient medical report\n";
 
     while (true)
     {
