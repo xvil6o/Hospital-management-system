@@ -5,7 +5,7 @@
 #include "header.h"
 using namespace std;
 
-bool again(const string& prompt) // helper function
+bool   again(const string& prompt) // helper function
 {
     string ans;
     cout << prompt;
